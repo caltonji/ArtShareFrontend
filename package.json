@@ -16,7 +16,7 @@
     "react-lazy-load": "^3.0.13",
     "react-lazyload": "^2.6.5",
     "react-router-dom": "^5.1.2",
-    "react-scripts-ts": "2.17.0",
+    "react-scripts-ts": "4.0.8",
     "regenerator-runtime": "^0.13.3"
   },
   "scripts": {
